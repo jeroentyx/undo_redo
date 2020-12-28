@@ -1,0 +1,2 @@
+C:\Users\Jeroen\source\repos\Proton\Debug\Proton.exe
+C:\Users\Jeroen\source\repos\Proton\Debug\Proton.pdb
